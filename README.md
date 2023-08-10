@@ -1,4 +1,4 @@
-# XAI_Ecoli
+# Explainable machine learning and deep learning approaches to identify metabolic reactions important for bacterial growth under different carbon source conditions
 
 [![DOI]()]
 
