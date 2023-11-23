@@ -1,6 +1,6 @@
 # Machine learning identifies key metabolic reactions in bacterial growth on different carbon sources
 
-[![DOI](https://zenodo.org/records/10164986.svg)](https://zenodo.org/records/10164986)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10164986.svg)](https://doi.org/10.5281/zenodo.10164986)
 
 Collection of python source codes for metabolic flux simulation & machine & deep learning used in this study.
 For more information, please see the publication: Explainable machine learning and deep learning approaches to identify metabolic reactions important for bacterial growth under different carbon source conditions.
@@ -25,7 +25,7 @@ The simulated output data can be found under [Model_simulation/output](Model_sim
 * numpy 1.21.6
 * optlang 1.5.0
 
-## 2. Machine learning
+## 2. Machine learning (Elastic net regression)
 The machine learning code can be found in [Supervised_learning](Supervised_learning). The code can be run through "EN.ipynb".
 
 Elastic-net regression technique (EN) (Zou and Hastie 2005) was employed to train the dataset. 
@@ -39,7 +39,7 @@ The coefficients of metabolic reactions from the trained models can be found und
 * numpy 1.19.5
 * pyarrow 6.0.1
 
-## 3. Deep learning
+## 3. Deep learning (Multilayer perceptron)
 The deep learning code can be found in [Supervised_learning](Supervised_learning). The code can be run through "MLP.ipynb".
 
 Multi-layer perceptron (MLP) (Gardner and Dorling 1998) was first employed to train the dataset. Then SHapley Additive exPlanations (SHAP) method (Lundberg and Lee 2017) was used to calculate metabolic feature importance. 
