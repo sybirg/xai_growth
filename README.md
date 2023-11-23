@@ -7,7 +7,7 @@ For more information, please see the publication: Explainable machine learning a
 
 Last update: 2023-11-22
 
-This repository is administered by Hyunjae Woo (whj4851@konkuk.ac.kr), Department of Bioscience and Biotechnology, Konkuk University, Seoul, Republic of Korea.
+This repository was created by Hyunjae Woo (whj4851@konkuk.ac.kr), Department of Bioscience and Biotechnology, Konkuk University, Seoul, Republic of Korea.
 
 ## 1. Metabolic modelling
 The metabolic modelling and simulation code is in [Model_simulation](Model_simulation). To produce the simulated flux data, run "model_simulation.ipynb".
