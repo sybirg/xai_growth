@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10164986.svg)](https://doi.org/10.5281/zenodo.10164986)
 
 Collection of python source codes for metabolic flux simulation & machine & deep learning used in this study.
-For more information, please see the publication: Explainable machine learning and deep learning approaches to identify metabolic reactions important for bacterial growth under different carbon source conditions.
+For more information, please see the publication: Machine learning identifies key metabolic reactions in bacterial growth on different carbon sources.
 
 Last update: 2023-11-22
 
